@@ -2,8 +2,12 @@
 	"name": "cmakesourcemanagerextension",
 	"displayName": "CMakeSourceManagerExtension",
 	"publisher": "ThomasVDP",
-	"description": "",
+	"description": "A Simple Extension to easily add and remove extensions from a certain variable in CMake!",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ThomasVDP/vsc-simpleCMakeAutoSourceExt.git"
+	},
 	"engines": {
 		"vscode": "^1.49.0"
 	},
